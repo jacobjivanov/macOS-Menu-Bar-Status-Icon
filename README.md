@@ -1,0 +1,1 @@
+# macOS-Menu-Bar-Status-Icon
